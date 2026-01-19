@@ -19,6 +19,8 @@ The project follows a complete **data science lifecycle**, from data collection 
 
 Data Collection → Data Cleaning → Exploratory Data Analysis → Feature Engineering → Visualization Dashboard → Machine Learning Model → Evaluation
 
+<img width="376" height="1172" alt="graphviz (1)" src="https://github.com/user-attachments/assets/53cbb6a6-e1ce-457a-bb24-e9b15626b542" />
+
 ---
 
 ## 📂 Dataset Information
