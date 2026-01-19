@@ -92,11 +92,10 @@ These visualizations help uncover hidden patterns and risk factors associated wi
 An interactive dashboard was built using **Streamlit** to visualize accident insights dynamically.
 
 🔗 **Live Dashboard:**  
-https://fauzia-shereen-m-traffic-accident-dashboard-app-obdjtf.streamlit.app/
+https://fauzia-shereen-m-traffic-accident-analysis-in-data-s-app-v4btz0.streamlit.app/
 
 🔗 **Dashboard Source Code:**  
-https://github.com/Fauzia-Shereen-M/Traffic-Accident-Dashboard
-
+https://github.com/Fauzia-Shereen-M/Traffic-Accident-Analysis-In-Data-Science-
 ---
 
 ## 📁 Project Structure
@@ -117,7 +116,7 @@ Traffic-Accident-Analysis/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Fauzia-Shereen-M/Traffic-Accident-Dashboard.git
+git clone https://github.com/Fauzia-Shereen-M/Traffic-Accident-Analysis-In-Data-Science-.git
 ```
 
 2. Install required packages
