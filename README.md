@@ -140,7 +140,9 @@ Traffic-Accident-Analysis/
 
 
 --- 
-## ▶️ How to Run the Project 1. Clone the repository
+## ▶️ How to Run the Project 
+
+1. Clone the repository
 bash
 git clone https://github.com/Fauzia-Shereen-M/Traffic-Accident-Analysis-In-Data-Science-.git
 
