@@ -137,6 +137,8 @@ Traffic-Accident-Analysis/
 └── requirements.txt
 
 
+
+
 --- 
 ## ▶️ How to Run the Project 
 
